@@ -12,12 +12,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
 <h1 align="center">Hey there👋</h1>
 
 ###
@@ -26,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Guilherme Dias from Brazil<br><br>- 🔭 I’m working as cybersecurity<br>- 📚 I'm currently learning <br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Guilherme Dias from Brazil.<br>- 📚Currently, I am gaining knowledge.<br>- ⚡ In my free time I like to improve mysel.f</p>
 
 ###
 
