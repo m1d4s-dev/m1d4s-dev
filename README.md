@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Guilherme Dias from Brazil.<br>- 📚Currently, I am gaining knowledge.<br>- ⚡ In my free time I like to improve mysel.f</p>
+<p align="left"- >I'm Guilherme Dias from Brazil.<br>- 📚Currently, I am gaining knowledge.<br>- ⚡ In my free time I like to improve mysel.f</p>
 
 ###
 
